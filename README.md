@@ -203,7 +203,7 @@
 พร้อมวิธีทำสั้น ๆ
 ```
 
-## 6. Role-Based Prompting
+## 6. Step-by-Step Prompting
 
 ```markdown
 ช่วยอธิบายขั้นตอนการสมัคร Gmail แบบทีละขั้นตอน  
